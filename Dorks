@@ -1,0 +1,36 @@
+inurl:"CgiStart?page="
+inurl:/view.shtml
+intitle:"Live View/ — AXIS
+inurliview/view.shtml
+inurl:ViewerFrame?M0de=
+inurl:ViewerFrame?M0de=Refresh
+inurliaxis-cgi/jpg
+inurliaxis-cgi/mjpg (motion-JPEG) (disconnected)
+inurl:view/indexFrame.shtml
+inurliview/index.shtml
+inurliview/view.shtml
+liveapplet
+intitle:"live view" intitle:axis
+intitleiliveapplet
+allintitle:"Network Camera NetworkCamera" (disconnected)
+intitleiaxis intitle:"video server"
+intitleiliveapplet inurl:LvAppl
+intitle:"EvoCam" inurl:"webcam.html"
+intitle:"Live NetSnap Cam-Server feed"
+intitle:"Live View/ — AX|S"
+intitle:"Live View/ — AXIS 206M"
+inti’r|e"'l ive View / — AXIS 706W"
+intitle:"Live View/ — AXIS 210?
+inurl:indexFrame.shtml Axis
+inurl1"MultiCameraFrame?Mode=Motion" (disconnected)
+intitleistart inurl:cgistart
+intitle:"WJ-NTI 04 Main Page"
+intitleisnc-220 inurl:home/
+intitleisnc-cs3 inurl:home/
+intitleisnc-r230 inurl:home/
+intitle:"sony network camera snc-pl ?
+intitle:"sony network camera snc-ml ?
+site:.viewnetcam.com -www.viewnetcam.com
+intitle:"Toshiba Network Camera" user Iogin
+intitle:"netcam live image" (disconnected)
+intitle:"i-Catcher Console — Web Monitor"
